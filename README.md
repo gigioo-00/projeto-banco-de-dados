@@ -24,10 +24,10 @@ O objetivo desse problema era a criação de uma estrutura de banco de dados que
 ## Explicação das Entidades e Relacionamentos ⋆⭒˚.⋆
 
 #### MODELO CONCEITUAL
-![modelo-conceitual](./modelo/modelo%20conceitual.png)
+![modelo-conceitual](./modelo/modeloconceitual.png)
 
 #### MODELO LÓGICO
-![modelo-lógico](./modelo/modelo%20lógico.png)
+![modelo-lógico](./modelo/modelológico.png)
 
 ---
 
