@@ -29,6 +29,8 @@ O objetivo desse problema era a criação de uma estrutura de banco de dados que
 #### MODELO LÓGICO
 ![modelo-lógico](./modelo/modelo%20lógico.png)
 
+---
+
 ### Entidades
 
 ---
